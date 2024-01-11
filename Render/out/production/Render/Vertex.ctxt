@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Vertex
+comment0.text=\r\n\ Stores\ the\ data\ of\ a\ vertex\ in\ the\ object\r\n\r\n\ @Alex\ Schwartz\r\n\ @j8\ 11/15/2022\r\n
+comment1.params=x\ y\ z
+comment1.target=Vertex(double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Vertex\r\n
+comment2.params=rotationMatrix
+comment2.target=void\ rotate(double[][])
+comment2.text=\r\n\ Rotates\ the\ location\ of\ vertex.\r\n\r\n\ @param\ \ rotationMatrix\ the\ matrix\ used\ to\ rotate\ the\ location.\r\n
+comment3.params=displacementVector
+comment3.target=void\ displace(double[])
+comment3.text=\r\n\ Displaces\ the\ location\ of\ the\ vertex\r\n\ @param\ displacementVector\ the\ x,\ y,\ and\ z\ displacement\ (in\ that\ order)\ of\ the\ vertex\r\n
+comment4.params=
+comment4.target=double\ getX()
+comment5.params=
+comment5.target=double\ getY()
+comment6.params=
+comment6.target=double\ getZ()
+comment7.params=camera\ focalLength
+comment7.target=void\ updateCoordinate(Vertex,\ double)
+comment7.text=\r\n\ Tells\ the\ vertex\ to\ generate\ its\ new\ coordinate\ location\ on\ the\ 2D\ screen\r\n\ @param\ camera\ the\ location\ of\ the\ camera\ as\ a\ vertex\r\n\ @param\ focalLength\ the\ distance\ in\ front\ of\ the\ camera\ for\ the\ screen\r\n
+comment8.params=
+comment8.target=Coordinate\ getScreenLocation()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

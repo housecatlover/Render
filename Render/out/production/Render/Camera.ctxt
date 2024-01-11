@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Camera
+comment1.params=location
+comment1.target=Camera(Vertex)
+comment2.params=displacementVector
+comment2.target=void\ displace(double[])
+comment3.params=
+comment3.target=Vertex\ getLocation()
+numComments=4

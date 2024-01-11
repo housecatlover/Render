@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Renderer
+comment0.text=\r\n\ Renders\ a\ predefined\ shape\ as\ a\ wireframe.\r\n\r\n\ @Alex\ Schwartz\r\n\ @j8\ 11/15/2022\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=edges
+comment2.target=void\ drawScreen(Edge[])
+numComments=3

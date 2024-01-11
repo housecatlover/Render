@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Locations
+comment0.text=\r\n\ Stores\ the\ locations\ of\ the\ vertices\ and\ edges\ for\ a\ cube\r\n\r\n\ @Alex\ Schwartz\r\n\ @j8\ 12/1/2022\r\n
+comment1.params=
+comment1.target=Locations()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ locations,\ loads\ preset\ vertices\ and\ edges\r\n
+comment2.params=transformationMatrix
+comment2.target=void\ transform(double[][])
+comment3.params=camera\ focalLength
+comment3.target=void\ updateAll(Vertex,\ double)
+comment4.params=index
+comment4.target=Edge\ getEdge(int)
+comment5.params=index
+comment5.target=Vertex\ getVertex(int)
+comment6.params=
+comment6.target=Edge[]\ getEdges()
+comment7.params=
+comment7.target=Vertex[]\ getVerticies()
+numComments=8

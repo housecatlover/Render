@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Edge
+comment0.text=\r\n\ Stores\ two\ connected\ Vertecies.\r\n\r\n\ @Alex\ Schwartz\r\n\ @j8\ 11/15/2022\r\n
+comment1.params=a\ b
+comment1.target=Edge(Vertex,\ Vertex)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Edge\r\n
+comment2.params=
+comment2.target=Vertex\ getA()
+comment2.text=\r\n\ @Return\ the\ first\ vertex.\r\n
+comment3.params=
+comment3.target=Vertex\ getB()
+comment3.text=\r\n\ @Return\ the\ second\ vertex.\r\n
+numComments=4

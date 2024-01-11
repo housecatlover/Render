@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Camera
+comment1.params=location
+comment1.target=Camera(Vertex)
+comment2.params=displacementVector
+comment2.target=void\ displace(Vector)
+comment3.params=
+comment3.target=Vertex\ getLocation()
+comment4.params=x\ y
+comment4.target=void\ rotate(double,\ double)
+comment4.text=\r\n\ \ \ \ \ \ \ \ identify\ the\ new\ screen\ location,\ it's\ a\ plane\ with\ the\ normal\ vector\ defined\ by\ X\ &\ Y\ angles\r\n\ \ \ \ \ \ \ \ displaced\ renderer.FOCAL_LENGTH\ along\ that\ same\ vector\r\n
+comment5.params=
+comment5.target=void\ findHorizontal()
+comment5.text=\r\n\ generates\ a\ "horizontal"\ line\ across\ the\ screen\ in\ 3d\ space\ as\ a\ vector\ to\ be\ projected\ onto\r\n
+comment6.params=
+comment6.target=Vector\ getHorizontal()
+comment7.params=input
+comment7.target=double\ inside2Pi(double)
+comment8.params=
+comment8.target=Plane\ getPlane()
+numComments=9
